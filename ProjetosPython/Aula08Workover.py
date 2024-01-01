@@ -1,0 +1,1 @@
+#Aula tutorial de primeiro projeto na ferramenta de design gráfico PyQt5

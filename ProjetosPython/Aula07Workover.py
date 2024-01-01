@@ -1,0 +1,1 @@
+#Aula tutorial de instalação do PyQt5
